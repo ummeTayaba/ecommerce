@@ -1,0 +1,32 @@
+
+
+p.title-header
+{
+	font-family: 'Lobster', cursive;
+	font-size: 250%;
+}
+
+.mdl-textfield 
+{
+	width: 100%;
+}
+
+
+.mdl-radio
+{
+	margin: 20px;
+}
+
+div.page-content
+{
+	margin-top: 2%;
+}
+
+
+p.title-content
+{
+	font-family: 'Lobster', cursive;
+	font-size: 120%;
+	line-height: 120%;
+
+}
